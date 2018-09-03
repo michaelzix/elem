@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="spingbootStart"
+  id="myeclipse.1535945666629"
+  context-root="/spingbootStart"
+  j2ee-spec="1.7"
+  archive="spingbootStart.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
